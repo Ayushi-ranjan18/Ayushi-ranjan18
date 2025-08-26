@@ -25,5 +25,5 @@ Collaborative coding & fast prototyping
 
 📫 Connect With Me
 📧 ayushiranjan007@gmail.com
- 
+ www.linkedin.com/in/ayushi-ranjan-659ab2380
 
