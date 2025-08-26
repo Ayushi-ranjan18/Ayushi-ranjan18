@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ayushi Ranjan
+🚀 Aspiring Software Developer | Passionate about Machine Learning, Python, and Problem-Solving
+I love building projects that combine data, creativity, and technology. Currently exploring Machine Learning, Data Science, and AI applications through hands-on projects and hackathons.
 
-<!--
-**Ayushi-ranjan18/Ayushi-ranjan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 Certifications
+Python for Machine Learning & Data Science – Udemy (50 hrs)
 
-Here are some ideas to get you started:
+💻 Technical Skills
+Languages & Databases: Python, C
+Productivity Tools: MS Powerpoint, MS Word
+Design & Editing Tools: Canva, CapCut, Photoshop
+Core Strengths: Data Structure and algorithms(Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Soft Skills
+Teamwork & Collaboration
+Creative Problem-Solving
+Critical Thinking & Adaptability
+
+🔥 Hackathon Interests
+AI & Machine Learning projects
+Data-driven applications (predictive models, dashboards, insights)
+Creative solutions using tech + design tools
+Collaborative coding & fast prototyping
+
+
+📫 Connect With Me
+📧 ayushiranjan007@gmail.com
+ 
+
